@@ -1,3 +1,4 @@
 # Dylan Love's Portfolio <br>
 
-#Links:
+# Links:
+[Social Media] https://fastninjazz.github.io/portfolio/social_media
