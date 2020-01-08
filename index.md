@@ -1,5 +1,5 @@
 # Dylan Love's Portfolio
 
-### Links:
-- Facebook: [Link](https://www.facebook.com/)
-- GitHub: [Link](https://github.com/FaStNiNjAzZ/)
+## Links:
+- [### Facebook](https://www.facebook.com/)
+- [### GitHub](https://github.com/FaStNiNjAzZ/)
