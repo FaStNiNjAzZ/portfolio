@@ -1,8 +1,7 @@
 # Gallery
 <br>
 
-Video of Gameplay
-https://youtu.be/6s89myg34Kc
+[Link]Video of Gameplay(https://youtu.be/6s89myg34Kc)
 
 <br>
 ![Image](https://media.discordapp.net/attachments/631419020783910912/675882089039790120/Illicit.jpg)
