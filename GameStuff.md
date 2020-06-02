@@ -1,4 +1,4 @@
-#Screenshots/Video
+# Screenshots/Video
 <br>
 [Video of Gameplay](https://youtu.be/6s89myg34Kc)
 
