@@ -1,3 +1,7 @@
+#Screenshots/Video
+<br>
+[Video of Gameplay](https://youtu.be/6s89myg34Kc)
+
 ![Image](https://lh5.googleusercontent.com/NoZJVe141V8gQRq_Ou27AaxWJgv34gZn_rHOKePCGck2FVv00hJva4cXfyRDfejJie9h61q_ZtVBGhEAzgW86q08co298UAZdUxh6X51tEQwJykOsqo=w1280)
 <br>
 Main Menu Screen
@@ -7,10 +11,6 @@ Main Menu Screen
 Here is 1 set of options you can get if you find the note and talk to the other person.
 <br>
 ![Image](https://lh4.googleusercontent.com/gounvjSPVuCBYYQWEyH6fY_qk8O7c4WrI_j1pHkHgkcXvO8CJWh7LlKcu1Mjl6TLCbg_5k8hkxQ2pPJVz9g54lXEA8fXJwRp5QkGx4gkn0-QeLTWeM8=w1280)
-#Screenshots/Video
-<br>
-[Video of Gameplay](https://youtu.be/6s89myg34Kc)
-
 <br>
 Here is 1 set of options you can get if you find the note.
 <br>
